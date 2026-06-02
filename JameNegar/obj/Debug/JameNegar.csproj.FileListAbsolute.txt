@@ -1,0 +1,961 @@
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\bin\Debug\JameNegar.dll.config
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\bin\Debug\JameNegar.dll
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\bin\Debug\JameNegar.pdb
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\bin\Debug\JameNegar.dll.manifest
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\bin\Debug\JameNegar.vsto
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\bin\Debug\CsvHelper.dll
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\bin\Debug\DocumentFormat.OpenXml.dll
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\bin\Debug\MaterialDesignColors.dll
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\bin\Debug\MaterialDesignThemes.Wpf.dll
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\bin\Debug\Microsoft.Bcl.HashCode.dll
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\bin\Debug\Microsoft.Xaml.Behaviors.dll
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\bin\Debug\Newtonsoft.Json.dll
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\bin\Debug\System.Buffers.dll
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\bin\Debug\System.IO.Pipelines.dll
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\bin\Debug\System.Memory.dll
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\bin\Debug\System.Numerics.Vectors.dll
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\bin\Debug\System.Text.Encodings.Web.dll
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\bin\Debug\System.Text.Json.dll
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\bin\Debug\System.ValueTuple.dll
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\bin\Debug\CsvHelper.xml
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\bin\Debug\DocumentFormat.OpenXml.xml
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\bin\Debug\Microsoft.Bcl.HashCode.xml
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\bin\Debug\Microsoft.Xaml.Behaviors.xml
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\bin\Debug\Newtonsoft.Json.xml
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\bin\Debug\System.Buffers.xml
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\bin\Debug\System.IO.Pipelines.xml
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\bin\Debug\System.Memory.xml
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\bin\Debug\System.Numerics.Vectors.xml
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\bin\Debug\System.Text.Encodings.Web.xml
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\bin\Debug\System.Text.Json.xml
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.csproj.AssemblyReference.cache
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\CitationSettings\CitationSettingsControl.baml
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\FormatSettings\FormatSettingsControl.baml
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\CreateDocument\CreateDocumentSlide1.baml
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\CreateDocument\CreateDocumentSlide2.baml
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\CreateDocument\CreateDocumentSlide5.baml
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\CreateDocument\CreateDocumentSlide4.baml
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\CreateDocument\CreateDocumentSlide3.baml
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\DocumentSettings\DocumentSettingsControl.baml
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\FootnoteSettings\SubtitleSettingsControl.baml
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\View\BugReport.baml
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\View\Networking.baml
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\View\Profile.baml
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\NetworkingManager\NetworkingManagerControl.baml
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\VirastarSettings\VirastarSettingsControl.baml
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\TaskPanes\CrossReference\CrossReferenceControl.baml
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\CaptionsReferSettings\CaptionsReferSettingsControl.baml
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\View\Settings.baml
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\CustomControls\DialogBoxControl.g.cs
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\CustomControls\ShowMessageControl.g.cs
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\CustomControls\LoadingControl.g.cs
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\AddRemovePages\AddRemovePagesControl.g.cs
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\BesmellahPage\BesmellahPageControl.g.cs
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\CitationSettings\CitationSettingsControl.g.cs
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\FormatSettings\FormatSettingsControl.g.cs
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\CreateDocument\CreateDocumentControl.g.cs
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\CreateDocument\CreateDocumentSlide1.g.cs
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\CreateDocument\CreateDocumentSlide2.g.cs
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\CreateDocument\CreateDocumentSlide6.g.cs
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\CreateDocument\CreateDocumentSlide5.g.cs
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\CreateDocument\CreateDocumentSlide4.g.cs
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\CreateDocument\CreateDocumentSlide3.g.cs
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\DocumentSettings\DocumentSettingsControl.g.cs
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\FootnoteSettings\SubtitleSettingsControl.g.cs
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\View\Main.g.cs
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\View\AboutUs.g.cs
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\View\Login.g.cs
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\View\BugReport.g.cs
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\View\Networking.g.cs
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\View\Profile.g.cs
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\NetworkingManager\NetworkingManagerControl.g.cs
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\JameNegarControl.g.cs
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\VirastarSettings\VirastarSettingsControl.g.cs
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\TaskPanes\CrossReference\CrossReferenceControl.g.cs
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\CaptionsReferSettings\CaptionsReferSettingsControl.g.cs
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\ChangeContents\ChangeContentsControl.g.cs
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\DocumentManagerControl.g.cs
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\View\Documents.g.cs
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\Models\FileViewModel.g.cs
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\View\Settings.g.cs
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\TaskPanes\ChatBoxNetworking\ChatBoxControl.g.cs
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\TaskPanes\DefenseAnnouncements\DefenseAnnouncementsControl.g.cs
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\TaskPanes\DesigningCD\DesigningCDControl.g.cs
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\TaskPanes\InsertCitation\InsertCitationControl.g.cs
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\TaskPanes\InsertNahjBalaghe\InsertNahjBalagheControl.g.cs
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\TaskPanes\InsertDedicate\InsertDedicateControl.g.cs
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\TaskPanes\InsertQuran\InsertQuranControl.g.cs
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar_MarkupCompile.cache
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar_MarkupCompile.lref
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\CustomControls\DialogBoxControl.baml
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\CustomControls\ShowMessageControl.baml
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\CustomControls\LoadingControl.baml
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\AddRemovePages\AddRemovePagesControl.baml
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\BesmellahPage\BesmellahPageControl.baml
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\CreateDocument\CreateDocumentControl.baml
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\CreateDocument\CreateDocumentSlide6.baml
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\View\Main.baml
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\View\AboutUs.baml
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\View\Login.baml
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\JameNegarControl.baml
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\Styles\MainDictionary.baml
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\ChangeContents\ChangeContentsControl.baml
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\DocumentManagerControl.baml
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\View\Documents.baml
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\Models\FileViewModel.baml
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\TaskPanes\ChatBoxNetworking\ChatBoxControl.baml
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\TaskPanes\DefenseAnnouncements\DefenseAnnouncementsControl.baml
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\TaskPanes\DesigningCD\DesigningCDControl.baml
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\TaskPanes\InsertCitation\InsertCitationControl.baml
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\TaskPanes\InsertNahjBalaghe\InsertNahjBalagheControl.baml
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\TaskPanes\InsertDedicate\InsertDedicateControl.baml
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\TaskPanes\InsertQuran\InsertQuranControl.baml
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.g.resources
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.Private.FormMessageBox.resources
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.CustomControls.Design.frmSwitchPages.resources
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.CustomControls.P_ComboBox.resources
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.CustomControls.P_P_ComboBox.resources
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.CustomControls.P_P_TextBox.resources
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.CustomControls.P_P_ToggleButton.resources
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.Forms.AddBibliography.P_ResourceFileControl.resources
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.CustomControls.P_TextBox.resources
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.Forms.AddBibliography.AddBibliographyForm.resources
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.Forms.AddRemovePages.AddRemovePagesForm.resources
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.Forms.BesmellahPage.BesmellahPageForm.resources
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.Forms.CitationSettings.CitationSettingsForm.resources
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.Forms.DocumentSettings.DocumentSettingsForm.resources
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.Forms.FootnoteSettings.FootnoteSettingsForm.resources
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.Forms.FormatSettings.FormatSettingsForm.resources
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.Forms.VirastarSettings.VirastarSettingsForm.resources
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.Forms.CaptionSettings.CaptionsReferSettingsForm.resources
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.Forms.ChangeContents.ChangeContentsForm.resources
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.Forms.JameNegarManager.JameNegarForm.resources
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.Forms.LoadingForm.resources
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.Forms.SplashScreen.resources
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.Properties.ResourceRibbonIcons.resources
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.Properties.Resources.resources
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.TaskPanes.CrossReference.CrossReferenceTaskPane.resources
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.TaskPanes.ChatBoxNetworking.ChatBoxNetworkingTaskPane.resources
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.TaskPanes.DefenseAnnouncements.DefenseAnnouncementsTaskPane.resources
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.TaskPanes.DesigningCD.DesigningCDTaskPane.resources
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.TaskPanes.InsertCitation.InsertCitationTaskPane.resources
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.TaskPanes.InsertNahjBalaghe.InsertNahjBalagheTaskPane.resources
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.TaskPanes.InsertDedicate.InsertDedicateTaskPane.resources
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.TaskPanes.InsertQuran.InsertQuranTaskPane.resources
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.csproj.GenerateResource.cache
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.csproj.CoreCompileInputs.cache
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.csproj.Up2Date
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.dll
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.pdb
+F:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.dll.config
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\JameNegar.dll.config
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\JameNegar.dll
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\JameNegar.pdb
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\JameNegar.dll.manifest
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\JameNegar.vsto
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\CsvHelper.dll
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\DocumentFormat.OpenXml.dll
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\MaterialDesignColors.dll
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\MaterialDesignThemes.Wpf.dll
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\Microsoft.Bcl.HashCode.dll
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\Microsoft.Xaml.Behaviors.dll
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\Newtonsoft.Json.dll
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\System.Buffers.dll
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\System.IO.Pipelines.dll
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\System.Memory.dll
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\System.Numerics.Vectors.dll
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\System.Text.Encodings.Web.dll
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\System.Text.Json.dll
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\System.ValueTuple.dll
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\CsvHelper.xml
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\DocumentFormat.OpenXml.xml
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\Microsoft.Bcl.HashCode.xml
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\Microsoft.Xaml.Behaviors.xml
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\Newtonsoft.Json.xml
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\System.Buffers.xml
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\System.IO.Pipelines.xml
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\System.Memory.xml
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\System.Numerics.Vectors.xml
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\System.Text.Encodings.Web.xml
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\System.Text.Json.xml
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.csproj.AssemblyReference.cache
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\CitationSettings\CitationSettingsControl.baml
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\FormatSettings\FormatSettingsControl.baml
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\CreateDocument\CreateDocumentSlide1.baml
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\CreateDocument\CreateDocumentSlide2.baml
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\CreateDocument\CreateDocumentSlide5.baml
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\CreateDocument\CreateDocumentSlide4.baml
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\CreateDocument\CreateDocumentSlide3.baml
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\DocumentSettings\DocumentSettingsControl.baml
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\FootnoteSettings\SubtitleSettingsControl.baml
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\View\BugReport.baml
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\View\Networking.baml
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\View\Profile.baml
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\NetworkingManager\NetworkingManagerControl.baml
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\VirastarSettings\VirastarSettingsControl.baml
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\TaskPanes\CrossReference\CrossReferenceControl.baml
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\CaptionsReferSettings\CaptionsReferSettingsControl.baml
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\View\Settings.baml
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\CustomControls\DialogBoxControl.g.cs
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\CustomControls\ShowMessageControl.g.cs
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\CustomControls\LoadingControl.g.cs
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\AddRemovePages\AddRemovePagesControl.g.cs
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\BesmellahPage\BesmellahPageControl.g.cs
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\CitationSettings\CitationSettingsControl.g.cs
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\FormatSettings\FormatSettingsControl.g.cs
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\CreateDocument\CreateDocumentControl.g.cs
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\CreateDocument\CreateDocumentSlide1.g.cs
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\CreateDocument\CreateDocumentSlide2.g.cs
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\CreateDocument\CreateDocumentSlide6.g.cs
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\CreateDocument\CreateDocumentSlide5.g.cs
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\CreateDocument\CreateDocumentSlide4.g.cs
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\CreateDocument\CreateDocumentSlide3.g.cs
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\DocumentSettings\DocumentSettingsControl.g.cs
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\FootnoteSettings\SubtitleSettingsControl.g.cs
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\View\Main.g.cs
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\View\AboutUs.g.cs
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\View\Login.g.cs
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\View\BugReport.g.cs
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\View\Networking.g.cs
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\View\Profile.g.cs
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\NetworkingManager\NetworkingManagerControl.g.cs
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\JameNegarControl.g.cs
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\VirastarSettings\VirastarSettingsControl.g.cs
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\TaskPanes\CrossReference\CrossReferenceControl.g.cs
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\CaptionsReferSettings\CaptionsReferSettingsControl.g.cs
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\ChangeContents\ChangeContentsControl.g.cs
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\DocumentManagerControl.g.cs
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\View\Documents.g.cs
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\Models\FileViewModel.g.cs
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\View\Settings.g.cs
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\TaskPanes\ChatBoxNetworking\ChatBoxControl.g.cs
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\TaskPanes\DefenseAnnouncements\DefenseAnnouncementsControl.g.cs
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\TaskPanes\DesigningCD\DesigningCDControl.g.cs
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\TaskPanes\InsertCitation\InsertCitationControl.g.cs
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\TaskPanes\InsertNahjBalaghe\InsertNahjBalagheControl.g.cs
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\TaskPanes\InsertDedicate\InsertDedicateControl.g.cs
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\TaskPanes\InsertQuran\InsertQuranControl.g.cs
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar_MarkupCompile.cache
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar_MarkupCompile.lref
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\CustomControls\DialogBoxControl.baml
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\CustomControls\ShowMessageControl.baml
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\CustomControls\LoadingControl.baml
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\AddRemovePages\AddRemovePagesControl.baml
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\BesmellahPage\BesmellahPageControl.baml
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\CreateDocument\CreateDocumentControl.baml
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\CreateDocument\CreateDocumentSlide6.baml
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\View\Main.baml
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\View\AboutUs.baml
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\View\Login.baml
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\JameNegarControl.baml
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\Styles\MainDictionary.baml
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\ChangeContents\ChangeContentsControl.baml
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\DocumentManagerControl.baml
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\View\Documents.baml
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\Models\FileViewModel.baml
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\TaskPanes\ChatBoxNetworking\ChatBoxControl.baml
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\TaskPanes\DefenseAnnouncements\DefenseAnnouncementsControl.baml
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\TaskPanes\DesigningCD\DesigningCDControl.baml
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\TaskPanes\InsertCitation\InsertCitationControl.baml
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\TaskPanes\InsertNahjBalaghe\InsertNahjBalagheControl.baml
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\TaskPanes\InsertDedicate\InsertDedicateControl.baml
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\TaskPanes\InsertQuran\InsertQuranControl.baml
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.g.resources
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.Private.FormMessageBox.resources
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.CustomControls.Design.frmSwitchPages.resources
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.CustomControls.P_ComboBox.resources
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.CustomControls.P_P_ComboBox.resources
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.CustomControls.P_P_TextBox.resources
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.CustomControls.P_P_ToggleButton.resources
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.Forms.AddBibliography.P_ResourceFileControl.resources
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.CustomControls.P_TextBox.resources
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.Forms.AddBibliography.AddBibliographyForm.resources
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.Forms.AddRemovePages.AddRemovePagesForm.resources
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.Forms.BesmellahPage.BesmellahPageForm.resources
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.Forms.CitationSettings.CitationSettingsForm.resources
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.Forms.DocumentSettings.DocumentSettingsForm.resources
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.Forms.FootnoteSettings.FootnoteSettingsForm.resources
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.Forms.FormatSettings.FormatSettingsForm.resources
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.Forms.VirastarSettings.VirastarSettingsForm.resources
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.Forms.CaptionSettings.CaptionsReferSettingsForm.resources
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.Forms.ChangeContents.ChangeContentsForm.resources
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.Forms.JameNegarManager.JameNegarForm.resources
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.Forms.LoadingForm.resources
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.Forms.SplashScreen.resources
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.Properties.ResourceRibbonIcons.resources
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.Properties.Resources.resources
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.TaskPanes.CrossReference.CrossReferenceTaskPane.resources
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.TaskPanes.ChatBoxNetworking.ChatBoxNetworkingTaskPane.resources
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.TaskPanes.DefenseAnnouncements.DefenseAnnouncementsTaskPane.resources
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.TaskPanes.DesigningCD.DesigningCDTaskPane.resources
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.TaskPanes.InsertCitation.InsertCitationTaskPane.resources
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.TaskPanes.InsertNahjBalaghe.InsertNahjBalagheTaskPane.resources
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.TaskPanes.InsertDedicate.InsertDedicateTaskPane.resources
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.TaskPanes.InsertQuran.InsertQuranTaskPane.resources
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.csproj.GenerateResource.cache
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.csproj.CoreCompileInputs.cache
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.csproj.Up2Date
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.dll
+F:\C# projects\Backup\Jamenegar\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.pdb
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\JameNegar.dll.config
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\JameNegar.dll
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\JameNegar.pdb
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\JameNegar.dll.manifest
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\JameNegar.vsto
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\CsvHelper.dll
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\DocumentFormat.OpenXml.dll
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\MaterialDesignColors.dll
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\MaterialDesignThemes.Wpf.dll
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\Microsoft.Bcl.HashCode.dll
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\Microsoft.Xaml.Behaviors.dll
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\Newtonsoft.Json.dll
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\System.Buffers.dll
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\System.IO.Pipelines.dll
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\System.Memory.dll
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\System.Numerics.Vectors.dll
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\System.Text.Encodings.Web.dll
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\System.Text.Json.dll
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\System.ValueTuple.dll
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\CsvHelper.xml
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\DocumentFormat.OpenXml.xml
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\Microsoft.Bcl.HashCode.xml
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\Microsoft.Xaml.Behaviors.xml
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\Newtonsoft.Json.xml
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\System.Buffers.xml
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\System.IO.Pipelines.xml
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\System.Memory.xml
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\System.Numerics.Vectors.xml
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\System.Text.Encodings.Web.xml
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\System.Text.Json.xml
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.csproj.AssemblyReference.cache
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.dll.config
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\CitationSettings\CitationSettingsControl.baml
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\FormatSettings\FormatSettingsControl.baml
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\CreateDocument\CreateDocumentSlide1.baml
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\CreateDocument\CreateDocumentSlide2.baml
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\CreateDocument\CreateDocumentSlide5.baml
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\CreateDocument\CreateDocumentSlide4.baml
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\CreateDocument\CreateDocumentSlide3.baml
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\DocumentSettings\DocumentSettingsControl.baml
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\FootnoteSettings\SubtitleSettingsControl.baml
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\View\BugReport.baml
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\View\Networking.baml
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\View\Profile.baml
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\NetworkingManager\NetworkingManagerControl.baml
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\VirastarSettings\VirastarSettingsControl.baml
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\TaskPanes\CrossReference\CrossReferenceControl.baml
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\CaptionsReferSettings\CaptionsReferSettingsControl.baml
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\View\Settings.baml
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\CustomControls\DialogBoxControl.g.cs
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\CustomControls\ShowMessageControl.g.cs
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\CustomControls\LoadingControl.g.cs
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\AddRemovePages\AddRemovePagesControl.g.cs
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\BesmellahPage\BesmellahPageControl.g.cs
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\CitationSettings\CitationSettingsControl.g.cs
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\FormatSettings\FormatSettingsControl.g.cs
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\CreateDocument\CreateDocumentControl.g.cs
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\CreateDocument\CreateDocumentSlide1.g.cs
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\CreateDocument\CreateDocumentSlide2.g.cs
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\CreateDocument\CreateDocumentSlide6.g.cs
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\CreateDocument\CreateDocumentSlide5.g.cs
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\CreateDocument\CreateDocumentSlide4.g.cs
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\CreateDocument\CreateDocumentSlide3.g.cs
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\DocumentSettings\DocumentSettingsControl.g.cs
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\FootnoteSettings\SubtitleSettingsControl.g.cs
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\View\Main.g.cs
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\View\AboutUs.g.cs
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\View\Login.g.cs
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\View\BugReport.g.cs
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\View\Networking.g.cs
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\View\Profile.g.cs
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\NetworkingManager\NetworkingManagerControl.g.cs
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\JameNegarControl.g.cs
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\VirastarSettings\VirastarSettingsControl.g.cs
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\TaskPanes\CrossReference\CrossReferenceControl.g.cs
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\CaptionsReferSettings\CaptionsReferSettingsControl.g.cs
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\ChangeContents\ChangeContentsControl.g.cs
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\DocumentManagerControl.g.cs
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\View\Documents.g.cs
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\Models\FileViewModel.g.cs
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\View\Settings.g.cs
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\TaskPanes\ChatBoxNetworking\ChatBoxControl.g.cs
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\TaskPanes\DefenseAnnouncements\DefenseAnnouncementsControl.g.cs
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\TaskPanes\DesigningCD\DesigningCDControl.g.cs
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\TaskPanes\InsertCitation\InsertCitationControl.g.cs
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\TaskPanes\InsertNahjBalaghe\InsertNahjBalagheControl.g.cs
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\TaskPanes\InsertDedicate\InsertDedicateControl.g.cs
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\TaskPanes\InsertQuran\InsertQuranControl.g.cs
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar_MarkupCompile.cache
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar_MarkupCompile.lref
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\CustomControls\DialogBoxControl.baml
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\CustomControls\ShowMessageControl.baml
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\CustomControls\LoadingControl.baml
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\AddRemovePages\AddRemovePagesControl.baml
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\BesmellahPage\BesmellahPageControl.baml
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\CreateDocument\CreateDocumentControl.baml
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\CreateDocument\CreateDocumentSlide6.baml
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\View\Main.baml
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\View\AboutUs.baml
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\View\Login.baml
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\JameNegarControl.baml
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\Styles\MainDictionary.baml
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\ChangeContents\ChangeContentsControl.baml
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\DocumentManagerControl.baml
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\View\Documents.baml
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\Models\FileViewModel.baml
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\TaskPanes\ChatBoxNetworking\ChatBoxControl.baml
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\TaskPanes\DefenseAnnouncements\DefenseAnnouncementsControl.baml
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\TaskPanes\DesigningCD\DesigningCDControl.baml
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\TaskPanes\InsertCitation\InsertCitationControl.baml
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\TaskPanes\InsertNahjBalaghe\InsertNahjBalagheControl.baml
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\TaskPanes\InsertDedicate\InsertDedicateControl.baml
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\TaskPanes\InsertQuran\InsertQuranControl.baml
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.g.resources
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.Private.FormMessageBox.resources
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.CustomControls.Design.frmSwitchPages.resources
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.CustomControls.P_ComboBox.resources
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.CustomControls.P_P_ComboBox.resources
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.CustomControls.P_P_TextBox.resources
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.CustomControls.P_P_ToggleButton.resources
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.Forms.AddBibliography.P_ResourceFileControl.resources
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.CustomControls.P_TextBox.resources
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.Forms.AddBibliography.AddBibliographyForm.resources
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.Forms.AddRemovePages.AddRemovePagesForm.resources
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.Forms.BesmellahPage.BesmellahPageForm.resources
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.Forms.CitationSettings.CitationSettingsForm.resources
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.Forms.DocumentSettings.DocumentSettingsForm.resources
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.Forms.FootnoteSettings.FootnoteSettingsForm.resources
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.Forms.FormatSettings.FormatSettingsForm.resources
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.Forms.VirastarSettings.VirastarSettingsForm.resources
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.Forms.CaptionSettings.CaptionsReferSettingsForm.resources
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.Forms.ChangeContents.ChangeContentsForm.resources
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.Forms.JameNegarManager.JameNegarForm.resources
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.Forms.LoadingForm.resources
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.Forms.SplashScreen.resources
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.Properties.ResourceRibbonIcons.resources
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.Properties.Resources.resources
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.TaskPanes.CrossReference.CrossReferenceTaskPane.resources
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.TaskPanes.ChatBoxNetworking.ChatBoxNetworkingTaskPane.resources
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.TaskPanes.DefenseAnnouncements.DefenseAnnouncementsTaskPane.resources
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.TaskPanes.DesigningCD.DesigningCDTaskPane.resources
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.TaskPanes.InsertCitation.InsertCitationTaskPane.resources
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.TaskPanes.InsertNahjBalaghe.InsertNahjBalagheTaskPane.resources
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.TaskPanes.InsertDedicate.InsertDedicateTaskPane.resources
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.TaskPanes.InsertQuran.InsertQuranTaskPane.resources
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.csproj.GenerateResource.cache
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.csproj.CoreCompileInputs.cache
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.csproj.Up2Date
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.dll
+F:\C# projects\Backup\Jamenegar\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.pdb
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\JameNegar.dll.config
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\JameNegar.dll
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\JameNegar.pdb
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\JameNegar.dll.manifest
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\JameNegar.vsto
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\CsvHelper.dll
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\MaterialDesignColors.dll
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\Newtonsoft.Json.dll
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\System.Buffers.dll
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\System.IO.Pipelines.dll
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\System.Memory.dll
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\System.Text.Json.dll
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\System.ValueTuple.dll
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\CsvHelper.xml
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\Newtonsoft.Json.xml
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\System.Buffers.xml
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\System.IO.Pipelines.xml
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\System.Memory.xml
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\System.Text.Json.xml
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.csproj.AssemblyReference.cache
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.dll.config
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\CitationSettings\CitationSettingsControl.baml
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\FormatSettings\FormatSettingsControl.baml
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\CreateDocument\CreateDocumentSlide1.baml
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\CreateDocument\CreateDocumentSlide2.baml
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\CreateDocument\CreateDocumentSlide5.baml
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\CreateDocument\CreateDocumentSlide4.baml
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\CreateDocument\CreateDocumentSlide3.baml
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\DocumentSettings\DocumentSettingsControl.baml
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\FootnoteSettings\SubtitleSettingsControl.baml
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\View\BugReport.baml
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\View\Networking.baml
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\View\Profile.baml
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\NetworkingManager\NetworkingManagerControl.baml
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\VirastarSettings\VirastarSettingsControl.baml
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\TaskPanes\CrossReference\CrossReferenceControl.baml
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\CaptionsReferSettings\CaptionsReferSettingsControl.baml
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\View\Settings.baml
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\CustomControls\DialogBoxControl.g.cs
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\CustomControls\ShowMessageControl.g.cs
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\CustomControls\LoadingControl.g.cs
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\AddRemovePages\AddRemovePagesControl.g.cs
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\BesmellahPage\BesmellahPageControl.g.cs
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\CitationSettings\CitationSettingsControl.g.cs
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\FormatSettings\FormatSettingsControl.g.cs
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\CreateDocument\CreateDocumentControl.g.cs
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\CreateDocument\CreateDocumentSlide1.g.cs
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\CreateDocument\CreateDocumentSlide2.g.cs
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\CreateDocument\CreateDocumentSlide6.g.cs
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\CreateDocument\CreateDocumentSlide5.g.cs
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\CreateDocument\CreateDocumentSlide4.g.cs
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\CreateDocument\CreateDocumentSlide3.g.cs
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\DocumentSettings\DocumentSettingsControl.g.cs
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\FootnoteSettings\SubtitleSettingsControl.g.cs
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\View\Main.g.cs
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\View\AboutUs.g.cs
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\View\Login.g.cs
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\View\BugReport.g.cs
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\View\Networking.g.cs
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\View\Profile.g.cs
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\NetworkingManager\NetworkingManagerControl.g.cs
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\JameNegarControl.g.cs
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\VirastarSettings\VirastarSettingsControl.g.cs
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\TaskPanes\CrossReference\CrossReferenceControl.g.cs
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\CaptionsReferSettings\CaptionsReferSettingsControl.g.cs
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\ChangeContents\ChangeContentsControl.g.cs
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\DocumentManagerControl.g.cs
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\View\Documents.g.cs
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\Models\FileViewModel.g.cs
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\View\Settings.g.cs
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\TaskPanes\ChatBoxNetworking\ChatBoxControl.g.cs
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\TaskPanes\DefenseAnnouncements\DefenseAnnouncementsControl.g.cs
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\TaskPanes\DesigningCD\DesigningCDControl.g.cs
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\TaskPanes\InsertCitation\InsertCitationControl.g.cs
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\TaskPanes\InsertNahjBalaghe\InsertNahjBalagheControl.g.cs
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\TaskPanes\InsertDedicate\InsertDedicateControl.g.cs
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\TaskPanes\InsertQuran\InsertQuranControl.g.cs
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar_MarkupCompile.cache
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar_MarkupCompile.lref
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\CustomControls\DialogBoxControl.baml
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\CustomControls\ShowMessageControl.baml
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\CustomControls\LoadingControl.baml
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\AddRemovePages\AddRemovePagesControl.baml
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\BesmellahPage\BesmellahPageControl.baml
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\CreateDocument\CreateDocumentControl.baml
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\CreateDocument\CreateDocumentSlide6.baml
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\View\Main.baml
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\View\AboutUs.baml
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\View\Login.baml
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\JameNegarControl.baml
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\Styles\MainDictionary.baml
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\ChangeContents\ChangeContentsControl.baml
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\DocumentManagerControl.baml
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\View\Documents.baml
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\Models\FileViewModel.baml
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\TaskPanes\ChatBoxNetworking\ChatBoxControl.baml
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\TaskPanes\DefenseAnnouncements\DefenseAnnouncementsControl.baml
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\TaskPanes\DesigningCD\DesigningCDControl.baml
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\TaskPanes\InsertCitation\InsertCitationControl.baml
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\TaskPanes\InsertNahjBalaghe\InsertNahjBalagheControl.baml
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\TaskPanes\InsertDedicate\InsertDedicateControl.baml
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\TaskPanes\InsertQuran\InsertQuranControl.baml
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.g.resources
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.Private.FormMessageBox.resources
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.CustomControls.Design.frmSwitchPages.resources
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.CustomControls.P_ComboBox.resources
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.CustomControls.P_P_ComboBox.resources
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.CustomControls.P_P_TextBox.resources
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.CustomControls.P_P_ToggleButton.resources
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.Forms.AddBibliography.P_ResourceFileControl.resources
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.CustomControls.P_TextBox.resources
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.Forms.AddBibliography.AddBibliographyForm.resources
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.Forms.AddRemovePages.AddRemovePagesForm.resources
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.Forms.BesmellahPage.BesmellahPageForm.resources
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.Forms.CitationSettings.CitationSettingsForm.resources
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.Forms.DocumentSettings.DocumentSettingsForm.resources
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.Forms.FootnoteSettings.FootnoteSettingsForm.resources
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.Forms.FormatSettings.FormatSettingsForm.resources
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.Forms.VirastarSettings.VirastarSettingsForm.resources
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.Forms.CaptionSettings.CaptionsReferSettingsForm.resources
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.Forms.ChangeContents.ChangeContentsForm.resources
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.Forms.JameNegarManager.JameNegarForm.resources
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.Forms.LoadingForm.resources
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.Forms.SplashScreen.resources
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.Properties.ResourceRibbonIcons.resources
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.Properties.Resources.resources
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.TaskPanes.CrossReference.CrossReferenceTaskPane.resources
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.TaskPanes.ChatBoxNetworking.ChatBoxNetworkingTaskPane.resources
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.TaskPanes.DefenseAnnouncements.DefenseAnnouncementsTaskPane.resources
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.TaskPanes.DesigningCD.DesigningCDTaskPane.resources
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.TaskPanes.InsertCitation.InsertCitationTaskPane.resources
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.TaskPanes.InsertNahjBalaghe.InsertNahjBalagheTaskPane.resources
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.TaskPanes.InsertDedicate.InsertDedicateTaskPane.resources
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.TaskPanes.InsertQuran.InsertQuranTaskPane.resources
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.csproj.GenerateResource.cache
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.csproj.CoreCompileInputs.cache
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.csproj.Up2Date
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.dll
+C:\Users\error\Desktop\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.pdb
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\JameNegar.dll.config
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\JameNegar.dll
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\JameNegar.pdb
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\JameNegar.dll.manifest
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\JameNegar.vsto
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\CsvHelper.dll
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\DocumentFormat.OpenXml.dll
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\MaterialDesignColors.dll
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\Newtonsoft.Json.dll
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\System.Buffers.dll
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\System.IO.Pipelines.dll
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\System.Memory.dll
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\System.Numerics.Vectors.dll
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\System.Text.Encodings.Web.dll
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\System.Text.Json.dll
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\CsvHelper.xml
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\DocumentFormat.OpenXml.xml
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\Newtonsoft.Json.xml
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\System.Buffers.xml
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\System.IO.Pipelines.xml
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\System.Memory.xml
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\System.Numerics.Vectors.xml
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\System.Text.Encodings.Web.xml
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\System.Text.Json.xml
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.csproj.AssemblyReference.cache
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\CitationSettings\CitationSettingsControl.baml
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\FormatSettings\FormatSettingsControl.baml
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\CreateDocument\CreateDocumentSlide1.baml
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\CreateDocument\CreateDocumentSlide2.baml
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\CreateDocument\CreateDocumentSlide5.baml
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\CreateDocument\CreateDocumentSlide4.baml
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\CreateDocument\CreateDocumentSlide3.baml
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\DocumentSettings\DocumentSettingsControl.baml
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\FootnoteSettings\SubtitleSettingsControl.baml
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\View\BugReport.baml
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\View\Networking.baml
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\View\Profile.baml
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\NetworkingManager\NetworkingManagerControl.baml
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\VirastarSettings\VirastarSettingsControl.baml
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\TaskPanes\CrossReference\CrossReferenceControl.baml
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\CaptionsReferSettings\CaptionsReferSettingsControl.baml
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\View\Settings.baml
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\CustomControls\DialogBoxControl.g.cs
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\CustomControls\ShowMessageControl.g.cs
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\CustomControls\LoadingControl.g.cs
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\AddRemovePages\AddRemovePagesControl.g.cs
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\BesmellahPage\BesmellahPageControl.g.cs
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\CitationSettings\CitationSettingsControl.g.cs
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\FormatSettings\FormatSettingsControl.g.cs
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\CreateDocument\CreateDocumentControl.g.cs
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\CreateDocument\CreateDocumentSlide1.g.cs
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\CreateDocument\CreateDocumentSlide2.g.cs
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\CreateDocument\CreateDocumentSlide6.g.cs
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\CreateDocument\CreateDocumentSlide5.g.cs
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\CreateDocument\CreateDocumentSlide4.g.cs
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\CreateDocument\CreateDocumentSlide3.g.cs
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\DocumentSettings\DocumentSettingsControl.g.cs
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\FootnoteSettings\SubtitleSettingsControl.g.cs
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\View\Main.g.cs
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\View\AboutUs.g.cs
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\View\Login.g.cs
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\View\BugReport.g.cs
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\View\Networking.g.cs
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\View\Profile.g.cs
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\NetworkingManager\NetworkingManagerControl.g.cs
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\JameNegarControl.g.cs
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\VirastarSettings\VirastarSettingsControl.g.cs
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\TaskPanes\CrossReference\CrossReferenceControl.g.cs
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\CaptionsReferSettings\CaptionsReferSettingsControl.g.cs
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\ChangeContents\ChangeContentsControl.g.cs
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\DocumentManagerControl.g.cs
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\View\Documents.g.cs
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\Models\FileViewModel.g.cs
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\View\Settings.g.cs
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\TaskPanes\ChatBoxNetworking\ChatBoxControl.g.cs
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\TaskPanes\DefenseAnnouncements\DefenseAnnouncementsControl.g.cs
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\TaskPanes\DesigningCD\DesigningCDControl.g.cs
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\TaskPanes\InsertCitation\InsertCitationControl.g.cs
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\TaskPanes\InsertNahjBalaghe\InsertNahjBalagheControl.g.cs
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\TaskPanes\InsertDedicate\InsertDedicateControl.g.cs
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\TaskPanes\InsertQuran\InsertQuranControl.g.cs
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar_MarkupCompile.cache
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar_MarkupCompile.lref
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\CustomControls\DialogBoxControl.baml
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\CustomControls\ShowMessageControl.baml
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\CustomControls\LoadingControl.baml
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\AddRemovePages\AddRemovePagesControl.baml
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\BesmellahPage\BesmellahPageControl.baml
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\CreateDocument\CreateDocumentControl.baml
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\CreateDocument\CreateDocumentSlide6.baml
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\View\Main.baml
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\View\AboutUs.baml
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\View\Login.baml
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\JameNegarControl.baml
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\Styles\MainDictionary.baml
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\ChangeContents\ChangeContentsControl.baml
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\DocumentManagerControl.baml
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\View\Documents.baml
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\Models\FileViewModel.baml
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\TaskPanes\ChatBoxNetworking\ChatBoxControl.baml
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\TaskPanes\DefenseAnnouncements\DefenseAnnouncementsControl.baml
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\TaskPanes\DesigningCD\DesigningCDControl.baml
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\TaskPanes\InsertCitation\InsertCitationControl.baml
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\TaskPanes\InsertNahjBalaghe\InsertNahjBalagheControl.baml
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\TaskPanes\InsertDedicate\InsertDedicateControl.baml
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\TaskPanes\InsertQuran\InsertQuranControl.baml
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.g.resources
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.Private.FormMessageBox.resources
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.CustomControls.Design.frmSwitchPages.resources
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.CustomControls.P_ComboBox.resources
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.CustomControls.P_P_ComboBox.resources
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.CustomControls.P_P_TextBox.resources
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.CustomControls.P_P_ToggleButton.resources
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.Forms.AddBibliography.P_ResourceFileControl.resources
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.CustomControls.P_TextBox.resources
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.Forms.AddBibliography.AddBibliographyForm.resources
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.Forms.AddRemovePages.AddRemovePagesForm.resources
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.Forms.BesmellahPage.BesmellahPageForm.resources
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.Forms.CitationSettings.CitationSettingsForm.resources
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.Forms.DocumentSettings.DocumentSettingsForm.resources
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.Forms.FootnoteSettings.FootnoteSettingsForm.resources
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.Forms.FormatSettings.FormatSettingsForm.resources
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.Forms.VirastarSettings.VirastarSettingsForm.resources
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.Forms.CaptionSettings.CaptionsReferSettingsForm.resources
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.Forms.ChangeContents.ChangeContentsForm.resources
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.Forms.JameNegarManager.JameNegarForm.resources
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.Forms.LoadingForm.resources
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.Forms.SplashScreen.resources
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.Properties.ResourceRibbonIcons.resources
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.Properties.Resources.resources
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.TaskPanes.CrossReference.CrossReferenceTaskPane.resources
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.TaskPanes.ChatBoxNetworking.ChatBoxNetworkingTaskPane.resources
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.TaskPanes.DefenseAnnouncements.DefenseAnnouncementsTaskPane.resources
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.TaskPanes.DesigningCD.DesigningCDTaskPane.resources
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.TaskPanes.InsertCitation.InsertCitationTaskPane.resources
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.TaskPanes.InsertNahjBalaghe.InsertNahjBalagheTaskPane.resources
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.TaskPanes.InsertDedicate.InsertDedicateTaskPane.resources
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.TaskPanes.InsertQuran.InsertQuranTaskPane.resources
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.csproj.GenerateResource.cache
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.csproj.CoreCompileInputs.cache
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.csproj.Up2Date
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.dll
+D:\C# projects\Backup\Jamenegar\B8\DEMO\DEMO\B2\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.pdb
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\bin\Debug\JameNegar.dll.config
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\bin\Debug\JameNegar.dll
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\bin\Debug\JameNegar.pdb
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\bin\Debug\JameNegar.dll.manifest
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\bin\Debug\JameNegar.vsto
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\bin\Debug\CsvHelper.dll
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\bin\Debug\DocumentFormat.OpenXml.dll
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\bin\Debug\MaterialDesignColors.dll
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\bin\Debug\Newtonsoft.Json.dll
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\bin\Debug\System.Buffers.dll
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\bin\Debug\System.IO.Pipelines.dll
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\bin\Debug\System.Memory.dll
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\bin\Debug\System.Numerics.Vectors.dll
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\bin\Debug\System.Text.Encodings.Web.dll
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\bin\Debug\System.Text.Json.dll
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\bin\Debug\CsvHelper.xml
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\bin\Debug\DocumentFormat.OpenXml.xml
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\bin\Debug\Newtonsoft.Json.xml
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\bin\Debug\System.Buffers.xml
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\bin\Debug\System.IO.Pipelines.xml
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\bin\Debug\System.Memory.xml
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\bin\Debug\System.Numerics.Vectors.xml
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\bin\Debug\System.Text.Encodings.Web.xml
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\bin\Debug\System.Text.Json.xml
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.csproj.AssemblyReference.cache
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\CitationSettings\CitationSettingsControl.baml
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\FormatSettings\FormatSettingsControl.baml
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\CreateDocument\CreateDocumentSlide1.baml
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\CreateDocument\CreateDocumentSlide2.baml
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\CreateDocument\CreateDocumentSlide5.baml
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\CreateDocument\CreateDocumentSlide4.baml
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\CreateDocument\CreateDocumentSlide3.baml
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\DocumentSettings\DocumentSettingsControl.baml
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\FootnoteSettings\SubtitleSettingsControl.baml
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\View\BugReport.baml
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\View\Networking.baml
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\View\Profile.baml
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\NetworkingManager\NetworkingManagerControl.baml
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\VirastarSettings\VirastarSettingsControl.baml
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\TaskPanes\CrossReference\CrossReferenceControl.baml
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\CaptionsReferSettings\CaptionsReferSettingsControl.baml
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\View\Settings.baml
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\CustomControls\DialogBoxControl.g.cs
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\CustomControls\ShowMessageControl.g.cs
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\CustomControls\LoadingControl.g.cs
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\AddRemovePages\AddRemovePagesControl.g.cs
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\BesmellahPage\BesmellahPageControl.g.cs
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\CitationSettings\CitationSettingsControl.g.cs
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\FormatSettings\FormatSettingsControl.g.cs
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\CreateDocument\CreateDocumentControl.g.cs
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\CreateDocument\CreateDocumentSlide1.g.cs
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\CreateDocument\CreateDocumentSlide2.g.cs
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\CreateDocument\CreateDocumentSlide6.g.cs
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\CreateDocument\CreateDocumentSlide5.g.cs
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\CreateDocument\CreateDocumentSlide4.g.cs
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\CreateDocument\CreateDocumentSlide3.g.cs
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\DocumentSettings\DocumentSettingsControl.g.cs
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\FootnoteSettings\SubtitleSettingsControl.g.cs
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\View\Main.g.cs
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\View\AboutUs.g.cs
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\View\Login.g.cs
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\View\BugReport.g.cs
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\View\Networking.g.cs
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\View\Profile.g.cs
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\NetworkingManager\NetworkingManagerControl.g.cs
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\JameNegarControl.g.cs
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\VirastarSettings\VirastarSettingsControl.g.cs
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\TaskPanes\CrossReference\CrossReferenceControl.g.cs
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\CaptionsReferSettings\CaptionsReferSettingsControl.g.cs
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\ChangeContents\ChangeContentsControl.g.cs
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\DocumentManagerControl.g.cs
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\View\Documents.g.cs
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\Models\FileViewModel.g.cs
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\View\Settings.g.cs
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\TaskPanes\ChatBoxNetworking\ChatBoxControl.g.cs
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\TaskPanes\DefenseAnnouncements\DefenseAnnouncementsControl.g.cs
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\TaskPanes\DesigningCD\DesigningCDControl.g.cs
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\TaskPanes\InsertCitation\InsertCitationControl.g.cs
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\TaskPanes\InsertNahjBalaghe\InsertNahjBalagheControl.g.cs
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\TaskPanes\InsertDedicate\InsertDedicateControl.g.cs
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\TaskPanes\InsertQuran\InsertQuranControl.g.cs
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar_MarkupCompile.cache
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar_MarkupCompile.lref
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\CustomControls\DialogBoxControl.baml
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\CustomControls\ShowMessageControl.baml
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\CustomControls\LoadingControl.baml
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\AddRemovePages\AddRemovePagesControl.baml
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\BesmellahPage\BesmellahPageControl.baml
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\CreateDocument\CreateDocumentControl.baml
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\CreateDocument\CreateDocumentSlide6.baml
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\View\Main.baml
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\View\AboutUs.baml
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\View\Login.baml
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\JameNegarControl.baml
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\Styles\MainDictionary.baml
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\ChangeContents\ChangeContentsControl.baml
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\DocumentManagerControl.baml
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\View\Documents.baml
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\Forms\JameNegarManager\DocumentManager\Models\FileViewModel.baml
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\TaskPanes\ChatBoxNetworking\ChatBoxControl.baml
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\TaskPanes\DefenseAnnouncements\DefenseAnnouncementsControl.baml
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\TaskPanes\DesigningCD\DesigningCDControl.baml
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\TaskPanes\InsertCitation\InsertCitationControl.baml
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\TaskPanes\InsertNahjBalaghe\InsertNahjBalagheControl.baml
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\TaskPanes\InsertDedicate\InsertDedicateControl.baml
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\TaskPanes\InsertQuran\InsertQuranControl.baml
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.g.resources
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.Private.FormMessageBox.resources
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.CustomControls.Design.frmSwitchPages.resources
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.CustomControls.P_ComboBox.resources
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.CustomControls.P_P_ComboBox.resources
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.CustomControls.P_P_TextBox.resources
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.CustomControls.P_P_ToggleButton.resources
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.Forms.AddBibliography.P_ResourceFileControl.resources
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.CustomControls.P_TextBox.resources
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.Forms.AddBibliography.AddBibliographyForm.resources
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.Forms.AddRemovePages.AddRemovePagesForm.resources
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.Forms.BesmellahPage.BesmellahPageForm.resources
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.Forms.CitationSettings.CitationSettingsForm.resources
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.Forms.DocumentSettings.DocumentSettingsForm.resources
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.Forms.FootnoteSettings.FootnoteSettingsForm.resources
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.Forms.FormatSettings.FormatSettingsForm.resources
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.Forms.VirastarSettings.VirastarSettingsForm.resources
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.Forms.CaptionSettings.CaptionsReferSettingsForm.resources
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.Forms.ChangeContents.ChangeContentsForm.resources
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.Forms.JameNegarManager.JameNegarForm.resources
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.Forms.LoadingForm.resources
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.Forms.SplashScreen.resources
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.Properties.ResourceRibbonIcons.resources
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.Properties.Resources.resources
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.TaskPanes.CrossReference.CrossReferenceTaskPane.resources
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.TaskPanes.ChatBoxNetworking.ChatBoxNetworkingTaskPane.resources
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.TaskPanes.DefenseAnnouncements.DefenseAnnouncementsTaskPane.resources
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.TaskPanes.DesigningCD.DesigningCDTaskPane.resources
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.TaskPanes.InsertCitation.InsertCitationTaskPane.resources
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.TaskPanes.InsertNahjBalaghe.InsertNahjBalagheTaskPane.resources
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.TaskPanes.InsertDedicate.InsertDedicateTaskPane.resources
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.TaskPanes.InsertQuran.InsertQuranTaskPane.resources
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.csproj.GenerateResource.cache
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.csproj.CoreCompileInputs.cache
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.csproj.Up2Date
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.dll
+D:\C# projects\Shivanegar\shiva\shivanegar\ShivaJame\jamenegarApp\JameNegar\obj\Debug\JameNegar.pdb
