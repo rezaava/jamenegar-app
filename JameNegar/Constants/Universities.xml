@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<universities>
+
+
+	<university id="0" persian="دانشگاه جامع علمی کاربردی" english="Science and Technology University">
+		<departments>
+			<department persian="واحد استان یزد" english="Yazd Province Branch">
+				<group persian="مرکز آموزشی علمی کاربردی خدمات بهزیستی صدوق یزد" english="Economics"/>
+				<group persian="مرکز علمی کاربردی فرهنگ و هنر صدوقی" english="Economics"/>
+				<group persian="مرکز آموزش علمی کاربردی فرماندهی انتظامی استان یزد" english="Economics"/>
+				<group persian="مرکز علمی کاربردی  شرکت صنایع غذایی شیر رضا" english="Economics"/>
+				<group persian="مرکز آموزش علمی کاربردی جوادالائمه (ع)" english="Economics"/>
+				<group persian="مرکز آموزش علمی کاربردی شرکت فولاد آلیاژی ایران" english="Economics"/>
+				<group persian="مرکز آموزش علمی کاربردی شرکت شهرک های صنعتی اردکان" english="Economics"/>
+				<group persian="مرکز آموزش علمی-کاربردی هلال احمر یزد" english="Economics"/>
+			</department>
+		</departments>
+	</university>
+
+	
+</universities>
