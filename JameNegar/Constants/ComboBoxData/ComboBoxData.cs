@@ -45,23 +45,16 @@
         {
             AcademicDegreeValues.AcademicDegree_AssociateOfScienceFa,
             AcademicDegreeValues.AcademicDegree_BachelorOfScienceFa,
-            AcademicDegreeValues.AcademicDegree_PartTimeBachelorOfScienceFa,
         };
         internal static readonly string[] AcademicDegree_Fa =
         {
             AcademicDegreeValues.AcademicDegree_AssociateOfScienceFa,
             AcademicDegreeValues.AcademicDegree_BachelorOfScienceFa,
-            AcademicDegreeValues.AcademicDegree_PartTimeBachelorOfScienceFa,
-            AcademicDegreeValues.AcademicDegree_MasterOfScienceFa,
-            AcademicDegreeValues.AcademicDegree_DoctoralFa,
         };
         internal static readonly string[] AcademicDegree_En =
         {
-            AcademicDegreeValues.AcademicDegree_AssociateOfScienceEn,
-            AcademicDegreeValues.AcademicDegree_BachelorOfScienceEn,
-            AcademicDegreeValues.AcademicDegree_PartTimeBachelorOfScienceEn,
-            AcademicDegreeValues.AcademicDegree_MasterOfScienceEn,
-            AcademicDegreeValues.AcademicDegree_DoctoralEn,
+            AcademicDegreeValues.AcademicDegree_AssociateOfScienceFa,
+            AcademicDegreeValues.AcademicDegree_BachelorOfScienceFa,
         };
 
         internal static readonly string[] AcademicDegree_Project_Fa =
@@ -88,14 +81,11 @@
         {
             AcademicDegreeValues.AcademicDegree_AssociateOfScienceFa,
             AcademicDegreeValues.AcademicDegree_BachelorOfScienceFa,
-            AcademicDegreeValues.AcademicDegree_PartTimeBachelorOfScienceFa,
-            AcademicDegreeValues.AcademicDegree_MasterOfScienceFa,
-            AcademicDegreeValues.AcademicDegree_DoctoralFa,
         };
         internal static readonly string[] AcademicDegree_Dissertation_En =
         {
-            AcademicDegreeValues.AcademicDegree_DoctoralEn,
-        };
+            AcademicDegreeValues.AcademicDegree_AssociateOfScienceFa,
+            AcademicDegreeValues.AcademicDegree_BachelorOfScienceFa,        };
 
     }
 

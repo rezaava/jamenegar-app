@@ -1,0 +1,253 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\error\\Desktop\\DEMO\\B2\\ShivaJame\\jamenegarApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD35DDE-535B-4E76-8F9A-72DF0B55F097}|JameNegar\\JameNegar.csproj|c:\\users\\error\\desktop\\demo\\b2\\shivajame\\jamenegarapp\\jamenegar\\templates\\templates.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4BD35DDE-535B-4E76-8F9A-72DF0B55F097}|JameNegar\\JameNegar.csproj|solutionrelative:jamenegar\\templates\\templates.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD35DDE-535B-4E76-8F9A-72DF0B55F097}|JameNegar\\JameNegar.csproj|C:\\Users\\error\\Desktop\\DEMO\\B2\\ShivaJame\\jamenegarApp\\jamenegar\\dedicatedfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD35DDE-535B-4E76-8F9A-72DF0B55F097}|JameNegar\\JameNegar.csproj|solutionrelative:jamenegar\\dedicatedfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD35DDE-535B-4E76-8F9A-72DF0B55F097}|JameNegar\\JameNegar.csproj|C:\\Users\\error\\Desktop\\DEMO\\B2\\ShivaJame\\jamenegarApp\\jamenegar\\forms\\jamenegarmanager\\createdocument\\createdocumentslide6.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD35DDE-535B-4E76-8F9A-72DF0B55F097}|JameNegar\\JameNegar.csproj|solutionrelative:jamenegar\\forms\\jamenegarmanager\\createdocument\\createdocumentslide6.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD35DDE-535B-4E76-8F9A-72DF0B55F097}|JameNegar\\JameNegar.csproj|C:\\Users\\error\\Desktop\\DEMO\\B2\\ShivaJame\\jamenegarApp\\jamenegar\\ribbon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD35DDE-535B-4E76-8F9A-72DF0B55F097}|JameNegar\\JameNegar.csproj|solutionrelative:jamenegar\\ribbon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD35DDE-535B-4E76-8F9A-72DF0B55F097}|JameNegar\\JameNegar.csproj|c:\\users\\error\\desktop\\demo\\b2\\shivajame\\jamenegarapp\\jamenegar\\forms\\addremovepages\\addremovepagescontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD35DDE-535B-4E76-8F9A-72DF0B55F097}|JameNegar\\JameNegar.csproj|solutionrelative:jamenegar\\forms\\addremovepages\\addremovepagescontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD35DDE-535B-4E76-8F9A-72DF0B55F097}|JameNegar\\JameNegar.csproj|C:\\Users\\error\\Desktop\\DEMO\\B2\\ShivaJame\\jamenegarApp\\jamenegar\\templates\\templateaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD35DDE-535B-4E76-8F9A-72DF0B55F097}|JameNegar\\JameNegar.csproj|solutionrelative:jamenegar\\templates\\templateaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD35DDE-535B-4E76-8F9A-72DF0B55F097}|JameNegar\\JameNegar.csproj|c:\\users\\error\\desktop\\demo\\b2\\shivajame\\jamenegarapp\\jamenegar\\forms\\jamenegarmanager\\createdocument\\createdocumentslide4.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4BD35DDE-535B-4E76-8F9A-72DF0B55F097}|JameNegar\\JameNegar.csproj|solutionrelative:jamenegar\\forms\\jamenegarmanager\\createdocument\\createdocumentslide4.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD35DDE-535B-4E76-8F9A-72DF0B55F097}|JameNegar\\JameNegar.csproj|C:\\Users\\error\\Desktop\\DEMO\\B2\\ShivaJame\\jamenegarApp\\jamenegar\\constants\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD35DDE-535B-4E76-8F9A-72DF0B55F097}|JameNegar\\JameNegar.csproj|solutionrelative:jamenegar\\constants\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD35DDE-535B-4E76-8F9A-72DF0B55F097}|JameNegar\\JameNegar.csproj|C:\\Users\\error\\Desktop\\DEMO\\B2\\ShivaJame\\jamenegarApp\\jamenegar\\models\\templaterelationshipmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD35DDE-535B-4E76-8F9A-72DF0B55F097}|JameNegar\\JameNegar.csproj|solutionrelative:jamenegar\\models\\templaterelationshipmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD35DDE-535B-4E76-8F9A-72DF0B55F097}|JameNegar\\JameNegar.csproj|C:\\Users\\error\\Desktop\\DEMO\\B2\\ShivaJame\\jamenegarApp\\jamenegar\\forms\\jamenegarmanager\\createdocument\\createdocumentslide6.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4BD35DDE-535B-4E76-8F9A-72DF0B55F097}|JameNegar\\JameNegar.csproj|solutionrelative:jamenegar\\forms\\jamenegarmanager\\createdocument\\createdocumentslide6.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD35DDE-535B-4E76-8F9A-72DF0B55F097}|JameNegar\\JameNegar.csproj|C:\\Users\\error\\Desktop\\DEMO\\B2\\ShivaJame\\jamenegarApp\\jamenegar\\models\\ribboncontrolmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD35DDE-535B-4E76-8F9A-72DF0B55F097}|JameNegar\\JameNegar.csproj|solutionrelative:jamenegar\\models\\ribboncontrolmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD35DDE-535B-4E76-8F9A-72DF0B55F097}|JameNegar\\JameNegar.csproj|C:\\Users\\error\\Desktop\\DEMO\\B2\\ShivaJame\\jamenegarApp\\jamenegar\\customcontrols\\p_p_togglebutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD35DDE-535B-4E76-8F9A-72DF0B55F097}|JameNegar\\JameNegar.csproj|solutionrelative:jamenegar\\customcontrols\\p_p_togglebutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD35DDE-535B-4E76-8F9A-72DF0B55F097}|JameNegar\\JameNegar.csproj|C:\\Users\\error\\Desktop\\DEMO\\B2\\ShivaJame\\jamenegarApp\\jamenegar\\ribbon.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4BD35DDE-535B-4E76-8F9A-72DF0B55F097}|JameNegar\\JameNegar.csproj|solutionrelative:jamenegar\\ribbon.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD35DDE-535B-4E76-8F9A-72DF0B55F097}|JameNegar\\JameNegar.csproj|C:\\Users\\error\\Desktop\\DEMO\\B2\\ShivaJame\\jamenegarApp\\jamenegar\\customcontrols\\p_textbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD35DDE-535B-4E76-8F9A-72DF0B55F097}|JameNegar\\JameNegar.csproj|solutionrelative:jamenegar\\customcontrols\\p_textbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TemplateRelationshipModel.cs",
+              "DocumentMoniker": "C:\\Users\\error\\Desktop\\DEMO\\B2\\ShivaJame\\jamenegarApp\\JameNegar\\Models\\TemplateRelationshipModel.cs",
+              "RelativeDocumentMoniker": "JameNegar\\Models\\TemplateRelationshipModel.cs",
+              "ToolTip": "C:\\Users\\error\\Desktop\\DEMO\\B2\\ShivaJame\\jamenegarApp\\JameNegar\\Models\\TemplateRelationshipModel.cs",
+              "RelativeToolTip": "JameNegar\\Models\\TemplateRelationshipModel.cs",
+              "ViewState": "AgIAAEoAAAAA4DIzMzPTv2cAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T08:28:45.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateDocumentSlide6.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\error\\Desktop\\DEMO\\B2\\ShivaJame\\jamenegarApp\\JameNegar\\Forms\\JameNegarManager\\CreateDocument\\CreateDocumentSlide6.xaml.cs",
+              "RelativeDocumentMoniker": "JameNegar\\Forms\\JameNegarManager\\CreateDocument\\CreateDocumentSlide6.xaml.cs",
+              "ToolTip": "C:\\Users\\error\\Desktop\\DEMO\\B2\\ShivaJame\\jamenegarApp\\JameNegar\\Forms\\JameNegarManager\\CreateDocument\\CreateDocumentSlide6.xaml.cs",
+              "RelativeToolTip": "JameNegar\\Forms\\JameNegarManager\\CreateDocument\\CreateDocumentSlide6.xaml.cs",
+              "ViewState": "AgIAADYBAAAAAAAAAAAswIYBAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T07:36:09.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ribbon.cs",
+              "DocumentMoniker": "C:\\Users\\error\\Desktop\\DEMO\\B2\\ShivaJame\\jamenegarApp\\JameNegar\\Ribbon.cs",
+              "RelativeDocumentMoniker": "JameNegar\\Ribbon.cs",
+              "ToolTip": "C:\\Users\\error\\Desktop\\DEMO\\B2\\ShivaJame\\jamenegarApp\\JameNegar\\Ribbon.cs",
+              "RelativeToolTip": "JameNegar\\Ribbon.cs",
+              "ViewState": "AgIAABkBAAAAAAAAAADwvzEBAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T09:08:17.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DedicatedFunctions.cs",
+              "DocumentMoniker": "C:\\Users\\error\\Desktop\\DEMO\\B2\\ShivaJame\\jamenegarApp\\JameNegar\\DedicatedFunctions.cs",
+              "RelativeDocumentMoniker": "JameNegar\\DedicatedFunctions.cs",
+              "ToolTip": "C:\\Users\\error\\Desktop\\DEMO\\B2\\ShivaJame\\jamenegarApp\\JameNegar\\DedicatedFunctions.cs",
+              "RelativeToolTip": "JameNegar\\DedicatedFunctions.cs",
+              "ViewState": "AgIAAOIQAAAAAAAAAAArwPYQAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T07:37:06.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Constants.cs",
+              "DocumentMoniker": "C:\\Users\\error\\Desktop\\DEMO\\B2\\ShivaJame\\jamenegarApp\\JameNegar\\Constants\\Constants.cs",
+              "RelativeDocumentMoniker": "JameNegar\\Constants\\Constants.cs",
+              "ToolTip": "C:\\Users\\error\\Desktop\\DEMO\\B2\\ShivaJame\\jamenegarApp\\JameNegar\\Constants\\Constants.cs",
+              "RelativeToolTip": "JameNegar\\Constants\\Constants.cs",
+              "ViewState": "AgIAAN8CAAAAwP/////fv/cCAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T08:37:07.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateDocumentSlide4.xaml",
+              "DocumentMoniker": "C:\\Users\\error\\Desktop\\DEMO\\B2\\ShivaJame\\jamenegarApp\\JameNegar\\Forms\\JameNegarManager\\CreateDocument\\CreateDocumentSlide4.xaml",
+              "RelativeDocumentMoniker": "JameNegar\\Forms\\JameNegarManager\\CreateDocument\\CreateDocumentSlide4.xaml",
+              "ToolTip": "C:\\Users\\error\\Desktop\\DEMO\\B2\\ShivaJame\\jamenegarApp\\JameNegar\\Forms\\JameNegarManager\\CreateDocument\\CreateDocumentSlide4.xaml",
+              "RelativeToolTip": "JameNegar\\Forms\\JameNegarManager\\CreateDocument\\CreateDocumentSlide4.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-01T09:06:30.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TemplateAccess.cs",
+              "DocumentMoniker": "C:\\Users\\error\\Desktop\\DEMO\\B2\\ShivaJame\\jamenegarApp\\JameNegar\\Templates\\TemplateAccess.cs",
+              "RelativeDocumentMoniker": "JameNegar\\Templates\\TemplateAccess.cs",
+              "ToolTip": "C:\\Users\\error\\Desktop\\DEMO\\B2\\ShivaJame\\jamenegarApp\\JameNegar\\Templates\\TemplateAccess.cs",
+              "RelativeToolTip": "JameNegar\\Templates\\TemplateAccess.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T07:35:55.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Templates.xml",
+              "DocumentMoniker": "C:\\Users\\error\\Desktop\\DEMO\\B2\\ShivaJame\\jamenegarApp\\JameNegar\\Templates\\Templates.xml",
+              "RelativeDocumentMoniker": "JameNegar\\Templates\\Templates.xml",
+              "ToolTip": "C:\\Users\\error\\Desktop\\DEMO\\B2\\ShivaJame\\jamenegarApp\\JameNegar\\Templates\\Templates.xml",
+              "RelativeToolTip": "JameNegar\\Templates\\Templates.xml",
+              "ViewState": "AgIAABQAAAAAAAAAAACQPQgAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-06-01T07:29:00.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddRemovePagesControl.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\error\\Desktop\\DEMO\\B2\\ShivaJame\\jamenegarApp\\JameNegar\\Forms\\AddRemovePages\\AddRemovePagesControl.xaml.cs",
+              "RelativeDocumentMoniker": "JameNegar\\Forms\\AddRemovePages\\AddRemovePagesControl.xaml.cs",
+              "ToolTip": "C:\\Users\\error\\Desktop\\DEMO\\B2\\ShivaJame\\jamenegarApp\\JameNegar\\Forms\\AddRemovePages\\AddRemovePagesControl.xaml.cs",
+              "RelativeToolTip": "JameNegar\\Forms\\AddRemovePages\\AddRemovePagesControl.xaml.cs",
+              "ViewState": "AgIAAI8CAABANTMzMzMbwK0CAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T08:52:39.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateDocumentSlide6.xaml",
+              "DocumentMoniker": "C:\\Users\\error\\Desktop\\DEMO\\B2\\ShivaJame\\jamenegarApp\\JameNegar\\Forms\\JameNegarManager\\CreateDocument\\CreateDocumentSlide6.xaml",
+              "RelativeDocumentMoniker": "JameNegar\\Forms\\JameNegarManager\\CreateDocument\\CreateDocumentSlide6.xaml",
+              "ToolTip": "C:\\Users\\error\\Desktop\\DEMO\\B2\\ShivaJame\\jamenegarApp\\JameNegar\\Forms\\JameNegarManager\\CreateDocument\\CreateDocumentSlide6.xaml",
+              "RelativeToolTip": "JameNegar\\Forms\\JameNegarManager\\CreateDocument\\CreateDocumentSlide6.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-01T07:28:18.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RibbonControlModel.cs",
+              "DocumentMoniker": "C:\\Users\\error\\Desktop\\DEMO\\B2\\ShivaJame\\jamenegarApp\\JameNegar\\Models\\RibbonControlModel.cs",
+              "RelativeDocumentMoniker": "JameNegar\\Models\\RibbonControlModel.cs",
+              "ToolTip": "C:\\Users\\error\\Desktop\\DEMO\\B2\\ShivaJame\\jamenegarApp\\JameNegar\\Models\\RibbonControlModel.cs",
+              "RelativeToolTip": "JameNegar\\Models\\RibbonControlModel.cs",
+              "ViewState": "AgIAACUAAACAmJmZmRkuwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T09:31:47.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "P_P_ToggleButton.cs",
+              "DocumentMoniker": "C:\\Users\\error\\Desktop\\DEMO\\B2\\ShivaJame\\jamenegarApp\\JameNegar\\CustomControls\\P_P_ToggleButton.cs",
+              "RelativeDocumentMoniker": "JameNegar\\CustomControls\\P_P_ToggleButton.cs",
+              "ToolTip": "C:\\Users\\error\\Desktop\\DEMO\\B2\\ShivaJame\\jamenegarApp\\JameNegar\\CustomControls\\P_P_ToggleButton.cs",
+              "RelativeToolTip": "JameNegar\\CustomControls\\P_P_ToggleButton.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAiwEoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T09:30:33.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Ribbon.xml",
+              "DocumentMoniker": "C:\\Users\\error\\Desktop\\DEMO\\B2\\ShivaJame\\jamenegarApp\\JameNegar\\Ribbon.xml",
+              "RelativeDocumentMoniker": "JameNegar\\Ribbon.xml",
+              "ToolTip": "C:\\Users\\error\\Desktop\\DEMO\\B2\\ShivaJame\\jamenegarApp\\JameNegar\\Ribbon.xml",
+              "RelativeToolTip": "JameNegar\\Ribbon.xml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAEIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-05-31T09:04:08.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "P_TextBox.cs",
+              "DocumentMoniker": "C:\\Users\\error\\Desktop\\DEMO\\B2\\ShivaJame\\jamenegarApp\\JameNegar\\CustomControls\\P_TextBox.cs",
+              "RelativeDocumentMoniker": "JameNegar\\CustomControls\\P_TextBox.cs",
+              "ToolTip": "C:\\Users\\error\\Desktop\\DEMO\\B2\\ShivaJame\\jamenegarApp\\JameNegar\\CustomControls\\P_TextBox.cs",
+              "RelativeToolTip": "JameNegar\\CustomControls\\P_TextBox.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T08:59:46.26Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

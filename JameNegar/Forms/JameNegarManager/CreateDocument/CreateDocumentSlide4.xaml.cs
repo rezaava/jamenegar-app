@@ -43,7 +43,7 @@ namespace JameNegar.Forms.JameNegarManager.CreateDocument
                 new CreateDocumentControlModel(txtBoxAuthorFa,CreateDocumentControlModel.ControlLevels.Essential),
                 new CreateDocumentControlModel(txtBoxSupervisorFa,CreateDocumentControlModel.ControlLevels.Essential),
                 new CreateDocumentControlModel(txtBoxAdvisorFa,CreateDocumentControlModel.ControlLevels.Essential),
-                new CreateDocumentControlModel(txtBoxDefenseDateFa,CreateDocumentControlModel.ControlLevels.Essential),
+                new CreateDocumentControlModel(txtBoxDefenseDateFa,CreateDocumentControlModel.ControlLevels.Optional),
                 new CreateDocumentControlModel(txtBoxLocationFa,CreateDocumentControlModel.ControlLevels.Essential),
             };
 
@@ -283,6 +283,27 @@ namespace JameNegar.Forms.JameNegarManager.CreateDocument
             else if (control == txtBoxLocationFa)
                 gridLocation.Margin = margin;
         }
+
+        private void DateControl(Control control, string hintText)
+        {
+            HintAssist.SetHelperText(control, hintText);
+
+            Thickness margin = new Thickness(0, 0, 0, 20);
+            if (control == txtBoxNameOfCourseFa)
+                gridNameOfCourse.Margin = margin;
+            else if (control == txtBoxTitleFa)
+                gridTitle.Margin = margin;
+            else if (control == txtBoxAuthorFa)
+                gridAuthor.Margin = margin;
+            else if (control == txtBoxSupervisorFa)
+                gridSupervisor.Margin = margin;
+            else if (control == txtBoxAdvisorFa)
+                gridAdvisor.Margin = margin;
+            else if (control == txtBoxDefenseDateFa)
+                gridDefenseDate.Margin = margin;
+            else if (control == txtBoxLocationFa)
+                gridLocation.Margin = margin;
+        }
         private void normalControl(Control control)
         {
             HintAssist.SetHelperText(control, "");
@@ -324,6 +345,8 @@ namespace JameNegar.Forms.JameNegarManager.CreateDocument
 
             SetAllControlLevelsToEssential();
 
+            SetControlLevelToOptional(txtBoxDefenseDateFa);
+
             if (documentType == DocumentTypes.SchoolResearch)
             {
                 // تحقیق درسی
@@ -335,6 +358,8 @@ namespace JameNegar.Forms.JameNegarManager.CreateDocument
                 txtBoxAuthorFa.Text = GetStudentName();
                 HintAssist.SetHint(txtBoxSupervisorFa, "استاد درس");
                 HintAssist.SetHint(txtBoxDefenseDateFa, "تاریخ انجام تحقیق");
+                DateControl(txtBoxDefenseDateFa, "مثال: بهار 1405، اردیبهشت 1405، 1405/02/01");
+
 
                 // مخفی کردن فیلدهای اضافی و Optional کردن آنها
                 gridLocation.Visibility = Visibility.Collapsed;
@@ -362,6 +387,8 @@ namespace JameNegar.Forms.JameNegarManager.CreateDocument
                 txtBoxAuthorFa.Text = GetStudentName();
                 gridDefenseDate.Visibility = Visibility.Visible;
                 HintAssist.SetHint(txtBoxDefenseDateFa, "زمان انجام کارورزی");
+                DateControl(txtBoxDefenseDateFa, "مثال: بهار 1405، اردیبهشت 1405، 1405/02/01");
+
             }
             else if (documentType == DocumentTypes.Project)
             {
@@ -386,7 +413,11 @@ namespace JameNegar.Forms.JameNegarManager.CreateDocument
 
                 gridDefenseDate.Visibility = Visibility.Visible;
                 HintAssist.SetHint(txtBoxDefenseDateFa, "تاریخ ارائه");
+                DateControl(txtBoxDefenseDateFa, "مثال: بهار 1405، اردیبهشت 1405، 1405/02/01");
+
             }
+
+
 
             validateControls();
 

@@ -214,11 +214,33 @@ namespace JameNegar.Forms.ChangeContents
 
         }
 
+        private void SaveAcademicDegree()
+        {
+            if (comboAcademicDegree.Visibility == Visibility.Visible && comboAcademicDegree.IsEnabled)
+            {
+                if (comboAcademicDegree.SelectedIndex != -1)
+                {
+                    // ذخیره فارسی
+                    DedicatedFunctions.changeContentControlContents(doc, ContentControlNames._field_AcademicDegree_Fa.ToString(), comboAcademicDegree.Text);
+                    DedicatedFunctions.setORAddStaticVariableValue(doc, VariableFieldIDs._variable_field_AcademicDegree_Fa.ToString(), comboAcademicDegree.Text);
+
+                    // ذخیره انگلیسی
+                    string academicDegreeEn = ComboBoxDataAcademicDegree.AcademicDegree_En[comboAcademicDegree.SelectedIndex];
+                    DedicatedFunctions.changeContentControlContents(doc, ContentControlNames._field_AcademicDegree_En.ToString(), academicDegreeEn);
+                    DedicatedFunctions.setORAddStaticVariableValue(doc, VariableFieldIDs._variable_field_AcademicDegree_En.ToString(), academicDegreeEn);
+                }
+            }
+        }
+
         #region buttons
         private void BtnConfirmChanges_Click(object sender, System.Windows.RoutedEventArgs es)
         {
             if (validateControls())
             {
+
+                SaveAcademicDegree();
+
+
                 loadingControl.Tag = "لطفا منتظر بمانید";
                 loadingControl.IsEnabled = true;
                 try
@@ -632,8 +654,12 @@ namespace JameNegar.Forms.ChangeContents
                     scrollContent.Focus();
                     e.Handled = true;
                 }
+                
             }
         }
+
+       
+
         private void ComboBox_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
             ComboBox comboBox = (ComboBox)sender;
@@ -835,6 +861,8 @@ namespace JameNegar.Forms.ChangeContents
                 string selectedItem = jsonElement.GetString();
 
                 setComboBoxSelectedItem(comboDepartment, txtBoxCustomDepartmentEn, gridDepartment, selectedItem);
+                comboDepartment.IsEnabled = false;
+
             }
             else
             {
@@ -866,6 +894,8 @@ namespace JameNegar.Forms.ChangeContents
                 comboGroup.ItemsSource = DepartmentsData.getPersianGroups(university, comboDepartment.SelectedItem as string);
                 string selectedItem = jsonElement.GetString();
                 setComboBoxSelectedItem(comboGroup, txtBoxCustomGroupEn, gridGroup, selectedItem);
+                comboGroup.IsEnabled = false;
+
             }
             else
             {
@@ -881,6 +911,7 @@ namespace JameNegar.Forms.ChangeContents
                 VariableFieldIDs._variable_field_Group_En.ToString()
                 ));
                 txtBoxCustomGroupEn.Text = jsonElement.GetString();
+
             }
             else
             {
@@ -895,6 +926,8 @@ namespace JameNegar.Forms.ChangeContents
                 VariableFieldIDs._variable_field_FieldOfStudy_Fa.ToString()
                 ));
                 txtBoxFieldOfStudy.Text = jsonElement.GetString();
+                txtBoxFieldOfStudy.IsEnabled = false;
+
             }
             else
             {
@@ -916,7 +949,7 @@ namespace JameNegar.Forms.ChangeContents
             //    txtBoxFieldOfStudyEn.IsEnabled = false;
             //}
 
-            
+
 
             //if (jsonVariables.TryGetProperty(VariableFieldIDs._variable_field_AreaOfStudy_En.ToString(), out jsonElement))
             //{
@@ -932,15 +965,39 @@ namespace JameNegar.Forms.ChangeContents
             //    txtBoxAreaOfStudyEn.IsEnabled = false;
             //}
 
+            //if (jsonVariables.TryGetProperty(VariableFieldIDs._variable_field_AcademicDegree_Fa.ToString(), out jsonElement))
+            //{
+            //    contents.Add(
+            //    new ChangeContentsModel(comboAcademicDegree, ContentControlNames._field_AcademicDegree_Fa.ToString(),
+            //    VariableFieldIDs._variable_field_AcademicDegree_Fa.ToString()
+            //    ));
+            //    comboAcademicDegree.ItemsSource = ComboBoxDataAcademicDegree.AcademicDegree_Fa;
+            //    comboAcademicDegree.SelectedItem = jsonElement.GetString();
+            //    comboAcademicDegree.IsEnabled = true;
+
+
+
+            //}
+            //else
+            //{
+            //    comboAcademicDegree.Visibility = Visibility.Collapsed;
+            //    comboAcademicDegree.IsEnabled = false;
+            //}
+
             if (jsonVariables.TryGetProperty(VariableFieldIDs._variable_field_AcademicDegree_Fa.ToString(), out jsonElement))
             {
-                contents.Add(
-                new ChangeContentsModel(comboAcademicDegree, ContentControlNames._field_AcademicDegree_Fa.ToString(),
-                VariableFieldIDs._variable_field_AcademicDegree_Fa.ToString()
-                ));
+                // فقط مقداردهی کن، به contents اضافه نکن
                 comboAcademicDegree.ItemsSource = ComboBoxDataAcademicDegree.AcademicDegree_Fa;
                 comboAcademicDegree.SelectedItem = jsonElement.GetString();
-                comboAcademicDegree.IsEnabled = false;
+                comboAcademicDegree.IsEnabled = true;
+                comboAcademicDegree.Visibility = Visibility.Visible;
+
+                // رویدادها رو دستی وصل کن (اگر نیاز داری)
+                comboAcademicDegree.SelectionChanged += (s, e) =>
+                {
+                    // اینجا هر کاری که نیاز داری انجام بده
+                    // یا خالی بذار اگه نیاز نداری
+                };
             }
             else
             {
@@ -1115,6 +1172,10 @@ namespace JameNegar.Forms.ChangeContents
         {
             foreach (ChangeContentsModel content in contents)
             {
+
+                if (content.Control == comboAcademicDegree)
+                    continue;
+
                 if (content.Control is TextBox textBox)
                 {
                     textBox.TextChanged += TextBox_TextChanged;
@@ -1197,6 +1258,21 @@ namespace JameNegar.Forms.ChangeContents
         private bool validateControls()
         {
             bool isValid = true;
+
+            if (comboAcademicDegree.Visibility == Visibility.Visible && comboAcademicDegree.IsEnabled)
+            {
+                if (comboAcademicDegree.SelectedIndex == -1)
+                {
+                    isValid = false;
+                    HintAssist.SetHelperText(comboAcademicDegree, "موردی انتخاب نشده است");
+                    comboAcademicDegree.Foreground = Brushes.Red;
+                }
+                else
+                {
+                    HintAssist.SetHelperText(comboAcademicDegree, "");
+                    comboAcademicDegree.Foreground = Brushes.Black;
+                }
+            }
 
             foreach (ChangeContentsModel content in contents)
             {

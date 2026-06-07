@@ -306,9 +306,6 @@ namespace JameNegar.Constants
     {
         internal const string AcademicDegree_AssociateOfScienceFa = "کاردانی";
         internal const string AcademicDegree_BachelorOfScienceFa = "کارشناسی";
-        internal const string AcademicDegree_PartTimeBachelorOfScienceFa = "کارشناسی ناپیوسته";
-        internal const string AcademicDegree_MasterOfScienceFa = "کارشناسی ارشد";
-        internal const string AcademicDegree_DoctoralFa = "دکتری";
 
         //S : Science | A: Arts
         //Ph.D. : Doctor of Philosophy | Ed.D. : Doctor of Education | D.Sc. : Doctor of Science

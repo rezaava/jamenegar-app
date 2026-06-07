@@ -65,8 +65,8 @@
 
                         <Viewbox
                             Grid.Column="1"
-                            Margin="30"
-                            VerticalAlignment="Center">
+                            Margin="30,-28,30,0"
+                            VerticalAlignment="Top">
                             <TextBlock
                                 x:Name="lblNameOfAllah"
                                 d:Text="2"

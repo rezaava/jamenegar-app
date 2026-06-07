@@ -835,16 +835,7 @@ namespace JameNegar
             {
                 return AcademicDegrees.BachelorOfScience;
             }
-            else if (academicDegreeName == AcademicDegreeValues.AcademicDegree_MasterOfScienceFa ||
-                academicDegreeName == AcademicDegreeValues.AcademicDegree_MasterOfScienceEn)
-            {
-                return AcademicDegrees.MasterOfScience;
-            }
-            else if (academicDegreeName == AcademicDegreeValues.AcademicDegree_DoctoralFa ||
-                academicDegreeName == AcademicDegreeValues.AcademicDegree_DoctoralEn)
-            {
-                return AcademicDegrees.Doctoral;
-            }
+            
             else
             {
                 return AcademicDegrees.Nothing;

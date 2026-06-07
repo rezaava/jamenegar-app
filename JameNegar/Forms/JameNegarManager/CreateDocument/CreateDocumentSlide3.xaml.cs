@@ -40,7 +40,6 @@ namespace JameNegar.Forms.JameNegarManager.CreateDocument
         {
             AcademicDegreeValues.AcademicDegree_AssociateOfScienceFa,
             AcademicDegreeValues.AcademicDegree_BachelorOfScienceFa,
-            AcademicDegreeValues.AcademicDegree_PartTimeBachelorOfScienceFa,
             //AcademicDegreeValues.AcademicDegree_MasterOfScienceFa,
             //AcademicDegreeValues.AcademicDegree_DoctoralFa,
         };
@@ -640,6 +639,7 @@ namespace JameNegar.Forms.JameNegarManager.CreateDocument
             normalControl(control);
         }
 
+       
         private void errorControl(Control control, string hintText)
         {
             HintAssist.SetHelperText(control, hintText);
@@ -677,11 +677,21 @@ namespace JameNegar.Forms.JameNegarManager.CreateDocument
            
         }
 
-        internal void initializeVariables(DocumentTypes documentType)
+      
+
+        internal void initializeVariables(DocumentTypes documentType, Universities? preselectedUniversity = null)
         {
+
+
             this.documentType = documentType;
 
             string previousSelectedAcademicDegree = "";
+
+            comboUniversity.SelectedIndex = 0;
+            comboUniversity.IsEnabled = false;
+
+
+
 
             if (comboAcademicDegree.SelectedIndex != -1)
             {
@@ -714,8 +724,12 @@ namespace JameNegar.Forms.JameNegarManager.CreateDocument
 
             comboBoxcontrolModels.Where(a => a.Control == comboAcademicDegree).FirstOrDefault().Validate = validateComboBox(comboAcademicDegree, ControlLevels.Essential, true);
 
+            
+
             validateControls();
         }
         #endregion
+
+       
     }
 }

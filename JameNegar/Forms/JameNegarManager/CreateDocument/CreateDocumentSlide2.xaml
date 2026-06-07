@@ -56,7 +56,7 @@
                         Margin="5"
                         materialDesign:HintAssist.Background="{StaticResource LightBackgroundColor}"
                         materialDesign:HintAssist.FloatingScale="1"
-                        materialDesign:HintAssist.Hint="نام سند"
+                        materialDesign:HintAssist.Hint="نام سند (ترجیحاً با حروف انگلیسی)"
                         materialDesign:TextFieldAssist.CharacterCounterVisibility="Collapsed"
                         AcceptsReturn="False"
                         AcceptsTab="False"
